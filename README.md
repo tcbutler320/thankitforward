@@ -5,9 +5,9 @@ A repository of tips and tricks I've learned as a means to thank forward all the
 1. CTF (Capture the Flag)
 2. Penetration Testing 
 3. Programming 
-.. A. Python
-.. B. Bash Scripting 
-.. C. C 
+..* A. Python
+..* B. Bash Scripting 
+..* C. C 
 
 
 
