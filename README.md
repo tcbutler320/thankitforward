@@ -6,7 +6,8 @@ A repository of tips and tricks I've learned as a means to thank forward all the
 2. Penetration Testing 
 3. Programming 
 
-
+## CTF (Capture the Flag)
+[Awesome Pentest](https://github.com/enaqx/awesome-pentest): One of the best repo's for pen testing
 
 
 
