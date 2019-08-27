@@ -16,6 +16,7 @@ Thankitforward is a repository of tips and tricks I've learned over the years in
 1. [A beginners Guide to Vulnhub](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d): An overview on using vulnhub to find vulnerable target machines.
 2. Introduction to Attack and Defense CTF](https://www.youtube.com/watch?v=oMDBTvehzs8): A brief overview video by the WriteupCTF Team about attack and defense CTF competitions
 3. Livestream CTF Tutorial](https://www.youtube.com/watch?v=XJTYramNfEw): A live CTF twitch stream by thejustinsteven 
+4. [CTF's useful for OSCP](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
 4. [Vulnhub](https://www.vulnhub.com/): An online repository of CTF's and vulnerable machines to use as target vm's
 
     ##### **Great Vulnhub Machines** 
