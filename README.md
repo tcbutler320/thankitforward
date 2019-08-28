@@ -1,5 +1,5 @@
 # Thankitforward
-Thankitforward is a repository of tips and tricks I've learned over the years in the infosec and computer science world. Its a means to thank forward all the help I've received in the tech space from an amazing infosec community. I will continuously update this repo with the best resources, tools, and techniques I've learned along the way. If there are any questions feel free to reach out. I do not take credit for any of the resources listed here, they are all online tools and resources i've valued greately
+Thankitforward is a repository of tips and tricks I've learned over the years in the infosec and computer science world. Its a means to thank forward all the help I've received in the tech space from an amazing infosec community. I will continuously update this repo with the best resources, tools, and techniques I've learned along the way. If there are any questions feel free to reach out. I do not take credit for any of the resources listed here, they are all online tools and resources i've valued greatly
 
 # Index
 - [Thankitforward](#thankitforward)
