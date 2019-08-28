@@ -33,7 +33,7 @@ Thankitforward is a repository of tips and tricks I've learned over the years in
 2. [System Overloard on Building a Home Lab](https://systemoverlord.com/2017/10/24/building-a-home-lab-for-offensive-security-basics.html#hardware-option-a-just-use-the-cloud): A blog post about considerations for pen test labs
 
 ## Programming
-1.[Quick Tip: Speed up your Python data processing scripts with Process Pools](https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a)
+1.[Quick Tip: Speed up your Python data processing scripts with Process Pools](https://medium.com/@ageitgey/quick-tip-speed-up-your-python-data-processing-scripts-with-process-pools-cf275350163a).
 2.[Make Python Programs Run Faster with Process Library](https://medium.com/@urban_institute/using-multiprocessing-to-make-python-code-faster-23ea5ef996ba)
 
 ## Raspberry Pi
