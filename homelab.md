@@ -33,8 +33,7 @@ Now, download an attack machine. The most popular option is Kali Linux, but ther
 1. [Kali Linux for Virtual Box](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)
 2. [Parrot Security for Virtual Box](https://parrotlinux.org/download-security.php)
 3. [BlackArch Linux](https://blackarch.org/downloads.html)
-4. 
-
+   
 *VM Ware Attack Machines*
 1. [Kali Linux for VMware](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/)
 
