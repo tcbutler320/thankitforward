@@ -69,21 +69,24 @@ Now, download an attack machine. The most popular option is Kali Linux, but ther
 
 *Target Machines*
 1. [Metasploitable](https://sourceforge.net/projects/metasploitable/files/Metasploitable2/): This is one of the most popular target machines. It is purposfully built full of vulnerabilities. In contrast to most CTF machines, metasploitable has plenty of services up and running to play around with
-2. [Metasploitable 2]()
+2. [Metasploitable 2](https://metasploit.help.rapid7.com/docs/metasploitable-2): An updated version of metasploitable 
+3. [Vulnhub Machines](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwjaks2D26bkAhWNtlkKHfWvDIMQFjAAegQIBBAC&url=https%3A%2F%2Fwww.vulnhub.com%2F&usg=AOvVaw0gnPjhXK-D1tSwTt15wBnD): Most of these are CTF's, but there is no other better source for getting virtual machines to test on. Visit [this](#ctf) link for a list of good vulnhub machines to try. 
 
 ### CTF
 CTF's are a great source of vulnerable target machines to practice one. These are great for two reasons. First, sites like [vulnhub](www.vulnhub.com) offer hundreds of CTF machines for you to practice with. Second, if you are stuck or don't know where to start while trying to root a machine, most CTF's have tutorials online where you can get tips to get passed a difficult flag.
 
-*CTF Resources*
+*Great Vulnhub Machines* #ctf-list
+1. [Rickdiculously Easy CTF](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/): A good begginer CTF. If you need tips on where to get started check out this [ tutorial](https://portunreachable.com/ctf-walkthrough-vulnhub-rickdiculouslyeasy-26da0981413a?gi=928bfc352af2)
+
+
+*CTF Resources* #CTF
 1. [A beginners Guide to Vulnhub](https://medium.com/@gavinloughridge/a-beginners-guide-to-vulnhub-part-1-52b06466635d): An overview on using vulnhub to find vulnerable target machines.
 2. Introduction to Attack and Defense CTF](https://www.youtube.com/watch?v=oMDBTvehzs8): A brief overview video by the WriteupCTF Team about attack and defense CTF competitions
 3. Livestream CTF Tutorial](https://www.youtube.com/watch?v=XJTYramNfEw): A live CTF twitch stream by thejustinsteven 
 4. [CTF's useful for OSCP](https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/edit#gid=0)
 5. [Vulnhub](https://www.vulnhub.com/): An online repository of CTF's and vulnerable machines to use as target vm's
 
-    ##### **Great Vulnhub Machines** 
-    A. [Rickdiculously Easy CTF](https://www.vulnhub.com/entry/rickdiculouslyeasy-1,207/)
-        - [Tutorial](https://portunreachable.com/ctf-walkthrough-vulnhub-rickdiculouslyeasy-26da0981413a?gi=928bfc352af2)
+
 
 ### Competitions
 
